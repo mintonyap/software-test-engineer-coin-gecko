@@ -37,6 +37,10 @@ All submissions will be evaluated based on the following criteria:
 - Samples of failure scenarios and relevant details e.g. build environment version and steps to reproduce
 
 
+Example of a mindmap: 
+![./img/mindmap.png]
+
+
 #### Extra Credit:
 
 L3 and above candidates will additionally be evaluated based on the following scope:
