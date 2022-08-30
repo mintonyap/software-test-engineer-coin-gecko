@@ -45,7 +45,7 @@ Example of a mindmap: \
 
 #### Extra Credit:
 
-L3 and above candidates will additionally be evaluated based on the following scope:
+L2 and above candidates will additionally be evaluated based on the following scope:
  
 - Automated regression testing of _either_ (1) Guest or (2) User journeys only. You may implement this with automated functional testing frameworks such as **Capybara**, **Selenium** etc.  
 
