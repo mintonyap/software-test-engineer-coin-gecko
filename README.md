@@ -27,14 +27,16 @@ You are tasked to develop a simple Test Plan for a basic user journey on the Coi
 ## Scoring Guide
 
 Develop a **Test Plan** for the above product specifications.
-Your Test Plan should include **Test Scenarios**, **Test Steps/Cases**, a Mind Map and their corresponding pass/fail criteria.
+Your Test Plan should include **Test Scenarios**, **Test Steps/Cases**, a **Mind Map** and their corresponding pass/fail criteria.
+
 
 All submissions will be evaluated based on the following criteria: 
 
-- Structure and organization of the Test Plan
-- Conciseness, readability, accuracy and adaptibility for future changes. 
-- Test coverage for happy and edge-case scenarios in critical application components.
-- Samples of failure scenarios and relevant details e.g. build environment version and steps to reproduce
+- Structure and organization of the Test Plan.
+- Conciseness, readability, accuracy and adaptibility to future changes. 
+- Test coverage for happy path and edge-case scenarios in critical application components.
+- Samples of failure scenarios and relevant details e.g. build environment version and steps to reproduce.
+- Automation code will be assess on selectors strategies, code structure and readability, assertions, setup and teardown, other relevant utilities.
 
 
 Example of a mindmap: \
@@ -45,14 +47,15 @@ Example of a mindmap: \
 
 L3 and above candidates will additionally be evaluated based on the following scope:
  
-- Automated regression testing of _either_ (1) Guest or (2) User journeys only. You may implement this with automated functional testing frameworks such as **Capybara**, **Selenium** etc. 
+- Automated regression testing of _either_ (1) Guest or (2) User journeys only. You may implement this with automated functional testing frameworks such as **Capybara**, **Selenium** etc.  
 
 
 ## Submission Guide
 
-- Your submission should include the Test Plan and a completed test execution. You may use a simple spreadsheet or a software like Bugzilla or Testlink. Manual test execution documents should be exported as PDF files. 
-- You should fork this repository into a private repository, and upload the PDF into your fork. Invite the users in the [Reviewers](https://gitlab.com/groups/coingecko-dev-test/-/group_members) group with the **Reporter** role.
+- Your submission should include the Test Plan and a completed test execution. You may use the provided spreadsheet as a starting point. 
+- You can use [gitmind.com](https://gitmind.com/) as a free mindmapping software.
+- You should fork this repository into a private repository, and upload the (1) Spreadsheet, (2) Mindmap, and (3) Automation Code (if any) into your fork. Invite the users in the [Reviewers](https://gitlab.com/groups/coingecko-dev-test/-/group_members) group with the **Reporter** role.
 - We do not expect candidates that meet the baseline to take more than 2 weeks to complete the assignment. Do correspond with the Talent Acquisition team for extensions. 
-- **We do not expect your submission to be exhaustive**. Your submission should give us a overview of your depth and breadth of working experience to understand how to help you smoothly onboard onto the team.
+- Your submission should give us a overview of your depth and breadth of working experience to understand how to help you smoothly onboard onto the team.
 - Your submission will be used as a **foundation for the next/final round** of interview. 
 - You may use our [stackshare.io](https://stackshare.io/coingecko) profile as a point of reference.
